@@ -25,9 +25,9 @@ The backend is developed using **Flask**, while the machine learning model is tr
    ```
    git clone https://github.com/Akshaiks/Edupath-Chatbot.git
 
-
+'''
 2.Install the dependencies:
-```
+
    git pip install -r requirements.txt
 
 
