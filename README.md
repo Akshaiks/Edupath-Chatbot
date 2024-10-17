@@ -22,16 +22,16 @@ The backend is developed using **Flask**, while the machine learning model is tr
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/career-guidance-chatbot.git
+   ```
+   git clone https://github.com/Akshaiks/Edupath-Chatbot.git
 
 
-Install the dependencies:
+2.Install the dependencies:
+```
+   git pip install -r requirements.txt
 
-Copy code
-pip install -r requirements.txt
 
-Download NLTK dependencies:
+3.Download NLTK dependencies:
 Copy code
 import nltk
 nltk.download('punkt')
